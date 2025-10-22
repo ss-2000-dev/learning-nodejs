@@ -94,3 +94,4 @@ package.json は`major.minor.patch`で表現している
 - [【package.json】 バージョンにつける「^」「~」は何を意味するのか？](https://zenn.dev/tm35/articles/778b9a260d43fc)
 - [セマンティック バージョニング 2.0.0](https://semver.org/lang/ja/)
 - [About semantic versioning | npm Docs](https://docs.npmjs.com/about-semantic-versioning)
+test
