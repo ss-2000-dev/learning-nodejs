@@ -95,3 +95,4 @@ package.json は`major.minor.patch`で表現している
 - [セマンティック バージョニング 2.0.0](https://semver.org/lang/ja/)
 - [About semantic versioning | npm Docs](https://docs.npmjs.com/about-semantic-versioning)
 test
+test2
